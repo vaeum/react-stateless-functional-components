@@ -1,0 +1,17 @@
+{
+  "name": "rsfc",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaeum/react-stateless-functional-components.git"
+  },
+  "author": "vaeum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vaeum/react-stateless-functional-components/issues"
+  },
+  "homepage": "https://github.com/vaeum/react-stateless-functional-components#readme"
+}
